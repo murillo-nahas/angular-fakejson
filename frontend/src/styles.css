@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Exo 2', sans-serif;
+}
+
+body {
+  background-color: #f5f6fa;
+}
+
+p {
+    color: var(--gray-color);
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+:root {
+    --gray-color: #898f9c; 
+    --kinda-blue: #8285c7;
+    --bg-color: #fff;
+    --bg-hover: #e4e4e4;
+}
