@@ -1,0 +1,106 @@
+{
+    "drivers": [
+        {
+            "id": 1,
+            "name": "Charles Leclerc",
+            "team": "Ferrari"
+        },
+        {
+            "id": 2,
+            "name": "Carlos Sainz Jr",
+            "team": "Ferrari"
+        },
+        {
+            "id": 3,
+            "name": "Max Verstappen",
+            "team": "Red Bull"
+        },
+        {
+            "id": 4,
+            "name": "Sérgio Perez",
+            "team": "Red Bull"
+        },
+        {
+            "id": 5,
+            "name": "George Russel",
+            "team": "Mercedes"
+        },
+        {
+            "id": 6,
+            "name": "Lewis Hamilton",
+            "team": "Mercedes"
+        },
+        {
+            "id": 7,
+            "name": "Esteban Ocon",
+            "team": "Alpine"
+        },
+        {
+            "id": 8,
+            "name": "Fernando Alonso",
+            "team": "Alpine"
+        },
+        {
+            "id": 9,
+            "name": "Kevin Magnussen",
+            "team": "Haas"
+        },
+        {
+            "id": 10,
+            "name": "Mick Schumacher",
+            "team": "Haas"
+        },
+        {
+            "id": 11,
+            "name": "Guanyu Zhou",
+            "team": "Alfa Romeo"
+        },
+        {
+            "id": 12,
+            "name": "Valtteri Bottas",
+            "team": "Alfa Romeo"
+        },
+        {
+            "id": 13,
+            "name": "Lando Norris",
+            "team": "McLaren"
+        },
+        {
+            "id": 14,
+            "name": "Daniel Ricciardo",
+            "team": "McLaren"
+        },
+        {
+            "id": 15,
+            "name": "Pierre Gasly",
+            "team": "AlphaTauri"
+        },
+        {
+            "id": 16,
+            "name": "Yuki Tsunoda",
+            "team": "AlphaTauri"
+        },
+        {
+            "id": 17,
+            "name": "Alexander Albon",
+            "team": "Williams"
+        },
+        {
+            "id": 18,
+            "name": "Nicholas Latifi",
+            "team": "Williams"
+        },
+        {
+            "id": 19,
+            "name": "Lance Stroll",
+            "team": "Aston Martin"
+        },
+        {
+            "id": 20,
+            "name": "Sebastian Vettel",
+            "team": "Aston Martin"
+        }
+        
+        
+    ]
+}
